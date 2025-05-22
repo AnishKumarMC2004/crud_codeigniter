@@ -6,7 +6,7 @@
 </head>
 <body>
 <div class="container mt-5">
-    <h2 class="text-center">Create Account</h2>
+    <h2 class="text-center">Create Account On crud</h2>
     <form method="post">
         <div class="mb-3">
             <label>Name:</label>
