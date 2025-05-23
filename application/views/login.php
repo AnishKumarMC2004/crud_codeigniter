@@ -10,7 +10,7 @@
     <h2 class="text-center">Login</h2>
     <form method="post">
         <div class="mb-3">
-            <label>Name:</label>
+            <label>NAME:</label>
             <input type="text" name="name" class="form-control" required>
         </div>
         <div class="mb-3">
