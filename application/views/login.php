@@ -7,7 +7,7 @@
 </head>
 <body>
 <div class="container mt-3">
-    <h2 class="text-center">Login</h2>
+    <h2 class="text-center">Login page </h2>
     <form method="post">
         <div class="mb-3">
             <label>Name:</label>
