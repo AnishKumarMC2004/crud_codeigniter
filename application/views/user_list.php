@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="container">
-        <h1 class="page-header text-center">READ PAGE</h1>
+        <h1 class="page-header text-center">READ PAGE BY ANISH</h1>
  <div class="row">
     <div class="col-m-3">
         <a href="<?php echo base_url(); ?>index.php/users/addnew" class="btn btn-primary"><span class="glyphicon glyphicon-plus"></span> Add New</a><br><br>
